@@ -1,0 +1,6 @@
+__pycache__/
+.ipynb_checkpoints/
+data/raw/*.zip
+data/raw/*.gz
+data/raw/*.7z
+.DS_Store
