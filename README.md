@@ -13,3 +13,8 @@ Goal: Perform a clean, reproducible Exploratory Data Analysis (EDA) using Pandas
 - notebooks: analysis notebooks
 - src: helper functions (optional)
 - reports: final charts/screenshots/summary
+
+## Data
+- Source: Kaggle — “Netflix Movies and TV Shows” (shivamb/netflix-shows)
+- File: `data/raw/netflix_titles.csv`
+- License: CC0 (Public Domain) (per Kaggle dataset page)
