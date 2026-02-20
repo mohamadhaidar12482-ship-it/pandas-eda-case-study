@@ -27,6 +27,10 @@ Goal: Perform a clean, reproducible Exploratory Data Analysis (EDA) using Pandas
 - File: `data/raw/netflix_titles.csv`
 - License: CC0 (Public Domain) (per Kaggle dataset page)
 
+## Outputs
+- Cleaned dataset: `data/processed/netflix_clean.csv`
+- Report: `reports/summary.md`
+
 ## How to Run
 1. Install requirements:
    - `pip install -r requirements.txt`
