@@ -11,7 +11,7 @@ Goal: Perform a clean, reproducible Exploratory Data Analysis (EDA) using Pandas
 - data/raw: original dataset (do not edit)
 - data/processed: cleaned dataset outputs
 - notebooks: analysis notebooks
-- src: helper functions (optional)
+- src: helper functions (optional-we may use it)
 - reports: final charts/screenshots/summary
 
 ## Data
