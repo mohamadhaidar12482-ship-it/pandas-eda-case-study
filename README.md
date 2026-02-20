@@ -7,6 +7,13 @@ Goal: Perform a clean, reproducible Exploratory Data Analysis (EDA) using Pandas
 - Answer business-style questions with groupby/aggregation
 - Produce a short report of insights
 
+## Key Findings (Highlights)
+- Peak year for titles added: **2019**
+- Peak year for TV shows added: **2020**
+- Top country: **United States (3,690 titles)**
+- Top category: **International Movies (2,752 titles)**
+- Typical movie duration: **median ~98 minutes**
+
 ## Project Structure
 - data/raw: original dataset (do not edit)
 - data/processed: cleaned dataset outputs
@@ -19,3 +26,10 @@ Goal: Perform a clean, reproducible Exploratory Data Analysis (EDA) using Pandas
 - Source: Kaggle — “Netflix Movies and TV Shows” (shivamb/netflix-shows)
 - File: `data/raw/netflix_titles.csv`
 - License: CC0 (Public Domain) (per Kaggle dataset page)
+
+## How to Run
+1. Install requirements:
+   - `pip install -r requirements.txt`
+2. Open the notebook:
+   - `jupyter notebook`
+3. Run: `notebooks/01_eda_netflix.ipynb`
